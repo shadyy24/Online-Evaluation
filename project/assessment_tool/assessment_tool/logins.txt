@@ -1,0 +1,25 @@
+==== ADMIN CREDENTIALS (from ap_login) ====
+Username: admin | Password: admin
+
+==== STAFF CREDENTIALS (from ap_staff) ====
+Username: rahul | Password: 123456
+Username: guru | Password: 1234
+Username: staff | Password: 123
+
+==== STUDENT CREDENTIALS (from ap_user) ====
+Username: 101 | Password: 123456
+Username: 102 | Password: 1234
+Username: 103 | Password: 1234
+Username: 104 | Password: 1234
+Username: 105 | Password: 123456
+Username: saravanan601 | Password: 123456
+Username: vijay569 | Password: 123456
+Username: ajith109 | Password: 123456
+Username: venkat683 | Password: 123456
+Username: venkat873 | Password: 123456
+Username: karthi881 | Password: 123456
+Username: hari986 | Password: 123456
+Username: ashwin958 | Password: 123456
+Username: nithya410 | Password: 123456
+Username: shalini457 | Password: 123456
+... and 140 more students ...
